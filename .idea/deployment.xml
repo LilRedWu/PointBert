@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wan@146.50.28.135:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="wan@146.50.28.135:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Workplace-why/Point-BERT" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wan@146.50.28.135:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wan/Workplace-why/Point-BERT" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
