@@ -244,7 +244,6 @@ class Registry:
 
 
 def build_from_cfg(cfg, registry, default_args=None):
-    # print(cfg)
     """Build a module from config dict.
     Args:
         cfg (edict): Config dict. It should at least contain the key "NAME".
